@@ -13,6 +13,7 @@ Part 1-
 9. How can you handle asynchronous operations in React using async/await?
 10. Explain the concept of the Context API in React and its benefits.
 
+
 11. What is the role of higher-order components (HOC) in React and how can you implement them?
 12. Describe the concept of controlled and uncontrolled components in React forms.
 13. How does React handle state management in large-scale applications?
@@ -37,6 +38,7 @@ Part 2-
 29. Difference b/w package .json and package-lock .json
 30. Difference between console .log(<HeaderComponent/>) and console .log(HeaderComponent());
 
+
 31. What is React.Fragment?
 32. What is the purpose of dependency array in useEffect? What is the difference when it is used and when it is not used?
 33. What if 2 components are given will the state change in one component will effect the other component’s state (child)?
@@ -49,6 +51,7 @@ Part 2-
 40. Explain the concept of reconciliation in React?
 
 Part 3-
+
 
 41. How does React's Virtual DOM work, and what are its advantages over the real DOM?
 42. Explain the role of keys in React lists and why they are essential.
